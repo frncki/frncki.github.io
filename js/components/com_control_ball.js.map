@@ -1,0 +1,1 @@
+{"version":3,"file":"com_control_ball.js","sourceRoot":"","sources":["../../../src/components/com_control_ball.ts"],"names":[],"mappings":"AAOA,MAAM,UAAU,YAAY;IACxB,OAAO,CAAC,IAAU,EAAE,MAAc,EAAE,EAAE;QAClC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,CAAC,uBAAmB,CAAC;QAC3C,IAAI,CAAC,KAAK,CAAC,WAAW,CAAC,MAAM,CAAC,GAAgB;QAC1C,gDAAgD;SACnD,CAAC;IACN,CAAC,CAAC;AACN,CAAC"}
